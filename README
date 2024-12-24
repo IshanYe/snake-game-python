@@ -1,0 +1,11 @@
+This file contains the necessary information about the snake game I made in python.
+
+1. This game runs off of 4 different files, these are main, snake, scoreboard and food.
+ 1a. The main file is responsible for joining the 4 files together to run the game.
+ 1b. The snake file makes the snake, makes it moves and extends it upon eating food
+ 1c. The food file generates the food that the snake eats.
+ 1d. The scoreboard file displays your score at the top, and also displays the "Game Over." message.
+
+2. I made this game as part of the 100 days of Python course on Udemy by Angela Yu.
+ 2a. Compared to Angela's code, I have reduced a few functions that I deemed unnecessary, and also added more flexibility by allowing the snake to be larger from the start rather than
+     hard coding it to be always 3 parts long.
